@@ -2,6 +2,6 @@ require "llt/aligner/version"
 
 module LLT
   module Aligner
-    # Your code goes here...
+    require 'llt/aligner/sentences'
   end
 end
